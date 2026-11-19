@@ -42,3 +42,12 @@ focused tests pass.
 - [x] Problem Details, status pages and correlation IDs added
 - [x] API integration test added: 1 passed
 - [x] Release build validation completed with zero warnings
+
+## Milestone 6: authentication and RBAC
+
+- [x] Password hashing, JWT access tokens and hashed refresh tokens added
+- [x] Refresh rotation and reuse detection added
+- [x] One-time bootstrap, login lockout, logout and role policies added
+- [x] Admin user create/list/update endpoints added
+- [x] Authentication security tests added: 3 passed
+- [x] Release build validation completed with zero warnings
