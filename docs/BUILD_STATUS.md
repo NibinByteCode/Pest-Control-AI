@@ -25,3 +25,12 @@ focused tests pass.
 - [x] Request validation helpers and application exceptions added
 - [x] Focused application tests added: 6 passed
 - [x] Release build validation completed with zero warnings
+
+## Milestone 4: persistence
+
+- [x] SQL Server EF Core context and persistence records added
+- [x] Relationships, unique constraints, indexes and job concurrency tokens added
+- [x] Design-time context factory added
+- [x] Initial schema migration generated
+- [x] Persistence model test passed
+- [x] Release build validation completed with zero warnings
