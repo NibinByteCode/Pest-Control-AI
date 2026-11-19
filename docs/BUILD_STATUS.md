@@ -10,3 +10,10 @@
 
 No product feature milestone is marked complete until its implementation and
 focused tests pass.
+
+## Milestone 2: domain model
+
+- [x] Identity, document, ingestion, AI, chat and audit entities added
+- [x] Explicit lifecycle transitions and invariants implemented
+- [x] Focused domain tests added: 9 passed
+- [x] Release build validation completed with zero warnings
