@@ -17,3 +17,11 @@ focused tests pass.
 - [x] Explicit lifecycle transitions and invariants implemented
 - [x] Focused domain tests added: 9 passed
 - [x] Release build validation completed with zero warnings
+
+## Milestone 3: application layer
+
+- [x] Provider-neutral AI, document, storage, search, security and job ports added
+- [x] Authentication, users, documents, chat, settings and audit contracts added
+- [x] Request validation helpers and application exceptions added
+- [x] Focused application tests added: 6 passed
+- [x] Release build validation completed with zero warnings
