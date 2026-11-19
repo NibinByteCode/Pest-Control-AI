@@ -1,0 +1,6 @@
+@PestControl.ContractIntelligence.Api_HostAddress = http://localhost:5038
+
+GET {{PestControl.ContractIntelligence.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

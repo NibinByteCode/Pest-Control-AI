@@ -1,0 +1,12 @@
+# Build status
+
+## Milestone 1: solution structure
+
+- [x] Solution and project boundaries created
+- [x] Repository standards and central package versions added
+- [x] README and CI skeleton added
+- [x] Release build validation completed with zero warnings
+- [x] Test command completed; focused tests will be added with feature milestones
+
+No product feature milestone is marked complete until its implementation and
+focused tests pass.
