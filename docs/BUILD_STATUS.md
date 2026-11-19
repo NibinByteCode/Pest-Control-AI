@@ -34,3 +34,11 @@ focused tests pass.
 - [x] Initial schema migration generated
 - [x] Persistence model test passed
 - [x] Release build validation completed with zero warnings
+
+## Milestone 5: API host
+
+- [x] SQL Server composition and strongly typed database configuration added
+- [x] Live and SQL readiness health endpoints added
+- [x] Problem Details, status pages and correlation IDs added
+- [x] API integration test added: 1 passed
+- [x] Release build validation completed with zero warnings
